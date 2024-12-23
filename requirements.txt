@@ -1,0 +1,3 @@
+```plaintext
+SpeechRecognition==3.8.1
+PyAudio==0.2.13
